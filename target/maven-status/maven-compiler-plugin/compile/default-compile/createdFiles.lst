@@ -1,0 +1,10 @@
+org\example\proxy\CGLIBProxy$1.class
+org\example\proxy\JDKProxy$1.class
+org\example\proxy\CGLIBProxy.class
+org\example\controller\UserController.class
+org\example\pojo\User.class
+org\example\service\impl\UserServiceImpl.class
+org\example\test\MainTest.class
+org\example\proxy\JDKProxy.class
+org\example\dao\UserMapper.class
+org\example\service\UserService.class
