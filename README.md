@@ -1,2 +1,2 @@
-# SSM-infrastructure
+# SSM
 SSM基础架构
